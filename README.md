@@ -1,6 +1,7 @@
 # Minecraft Terminal
 Minecraft Terminal is a Scriptcraft-based terminal panel that renders the text returned from an HTTP GET request.
 
+![Animated git of terminal](./terminal.gif)
 ##Installation
 
 ###Client
