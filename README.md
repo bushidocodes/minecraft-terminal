@@ -22,5 +22,5 @@ Minecraft Terminal is a Scriptcraft-based terminal panel that renders the text r
 
 ##Video
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=jO0DWYVOhSc
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+" target="_blank"><img src="http://img.youtube.com/vi/jO0DWYVOhSc/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
